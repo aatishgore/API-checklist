@@ -1,9 +1,7 @@
 # API checklist
 Checklist for API development
 
-- [ ] Follow consistency while writing apis like use same casing for fields, parameters and resources
- , use singular or plural for resource names
-, common logic for authentication and authorization
+- [ ] Follow consistency while writing apis like use same casing for fields, parameters and resources. Also, use singular or plural for resource names and have common logic for authentication and authorization
 - [ ] Use UTC time in backend
 - [ ] Create health checkpoint
 - [ ] API versioning
